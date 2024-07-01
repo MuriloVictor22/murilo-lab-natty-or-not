@@ -14,7 +14,7 @@ Utilizei o "ChatGPT" para criar o roteiro, estruturar o conteúdo e refinar a hi
 ## 🚀 Resultados
 O e-book apresenta uma história curta e envolvente usando o estilo de escrita dos contos de fadas infantis antigos.
 
-[LINK PARA O E-BOOK AQUI]()
+[LINK PARA O E-BOOK AQUI](https://github.com/MuriloVictor22/murilo-lab-natty-or-not/blob/main/fortaleza_branca/fortaleza_branca.pdf)
 
 ## 💭 Reflexão
 Criar este e-book foi uma ótima experiência e me deu novas ideias para futuras criações.
